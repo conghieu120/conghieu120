@@ -51,25 +51,25 @@ My name is Ma Cong Hieu. I am an software developer. I am interested in the foll
     <img src="https://img.shields.io/badge/Playwright%20-%23F7DF1E.svg?style=for-the-badge&logo=Playwright&logoColor=green" alt="My skill"/>
 </a>
 <br>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/Tailwind%20-%23F7DF1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=green" alt="My skill"/>
 </a>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/Bootstrap_CSS%20-%23F7DF1E.svg?style=for-the-badge&logo=bootstrap&logoColor=green" alt="My skill"/>
 </a>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/AntDesign%20-%23F7DF1E.svg?style=for-the-badge&logo=antdesign&logoColor=green" alt="My skill"/>
 </a>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/Material_UI%20-%23F7DF1E.svg?style=for-the-badge&logo=mui&logoColor=green" alt="My skill"/>
 </a>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/Maintine_UI%20-%23F7DF1E.svg?style=for-the-badge&logo=mantine&logoColor=green" alt="My skill"/>
 </a>
 <br>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/jira%20-%23F7DF1E.svg?style=for-the-badge&logo=jira&logoColor=green" alt="My skill"/>
 </a>
-<a href="">
+<a href="#">
     <img src="https://img.shields.io/badge/trello%20-%23F7DF1E.svg?style=for-the-badge&logo=trello&logoColor=green" alt="My skill"/>
 </a>
