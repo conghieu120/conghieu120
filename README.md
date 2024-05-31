@@ -79,6 +79,6 @@ My name is Ma Cong Hieu. I am an software developer. I am interested in the foll
 <p align="center">
     <a href="https://github.com/conghieu120">
     <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=conghieu120&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conghieu120&layout=compact&theme=dark&bg_color=0A0A0A" alt="Languages"/>
     </a>
 </p>
