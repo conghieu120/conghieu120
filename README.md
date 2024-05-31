@@ -7,32 +7,32 @@ My name is Ma Cong Hieu. I am an software developer. I am interested in the foll
 
 ### I'm rely on 👨‍💻
 <a href="#">
-    <img src="https://img.shields.io/badge/HTML5%20-%4a99f6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="My skill"/>
+    <img src="https://img.shields.io/badge/HTML5%20-%4a99f6.svg?style=for-the-badge&logo=html5&logoColor=blue" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/CSS%20-%4a99f6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="My skill"/>
+    <img src="https://img.shields.io/badge/CSS%20-%4a99f6.svg?style=for-the-badge&logo=css3&logoColor=blue" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/JavaScript%20-%4a99f6.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="My skill"/>
+    <img src="https://img.shields.io/badge/JavaScript%20-%4a99f6.svg?style=for-the-badge&logo=javascript&logoColor=blue" alt="My skill"/>
 </a>
 <br>
 <a href="#">
-    <img src="https://img.shields.io/badge/Typescript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=blue" alt="My skill"/>
+    <img src="https://img.shields.io/badge/Typescript%20-%30a14e.svg?style=for-the-badge&logo=typescript&logoColor=blue" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/ReactJS%20-%23F7DF1E.svg?style=for-the-badge&logo=react&logoColor=blue" alt="My skill"/>
+    <img src="https://img.shields.io/badge/ReactJS%20-%30a14e.svg?style=for-the-badge&logo=react&logoColor=blue" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/NodeJS%20-%23F7DF1E.svg?style=for-the-badge&logo=v8&logoColor=blue" alt="My skill"/>
+    <img src="https://img.shields.io/badge/NodeJS%20-%30a14e.svg?style=for-the-badge&logo=v8&logoColor=blue" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/KoaJS%20-%23F7DF1E.svg?style=for-the-badge&logo=koa&logoColor=black" alt="My skill"/>
+    <img src="https://img.shields.io/badge/KoaJS%20-%30a14e.svg?style=for-the-badge&logo=koa&logoColor=black" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=for-the-badge&logo=express&logoColor=black" alt="My skill"/>
+    <img src="https://img.shields.io/badge/Express%20-%30a14e.svg?style=for-the-badge&logo=express&logoColor=black" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/Electron%20-%23F7DF1E.svg?style=for-the-badge&logo=electron&logoColor=black" alt="My skill"/>
+    <img src="https://img.shields.io/badge/Electron%20-%30a14e.svg?style=for-the-badge&logo=electron&logoColor=black" alt="My skill"/>
 </a>
 <br>
 <a href="#">
