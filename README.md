@@ -17,5 +17,18 @@ My name is Ma Cong Hieu. I am an software developer. I am interested in the foll
 ![ExpressJS](https://img.shields.io/badge/Express%20-%23F7DF1E.svg?style=for-the-badge&logo=express&logoColor=black)
 ![ElectronJS](https://img.shields.io/badge/Electron%20-%23F7DF1E.svg?style=for-the-badge&logo=electron&logoColor=black)
 <br>
-![AntDesign](https://img.shields.io/badge/AntDesign%20-%23F7DF1E.svg?style=for-the-badge&logo=antdesign&logoColor=green)
+![SQL](https://img.shields.io/badge/sql%20-%23F7DF1E.svg?style=for-the-badge&logo=mysql&logoColor=green)
+![Docker](https://img.shields.io/badge/docker%20-%23F7DF1E.svg?style=for-the-badge&logo=docker&logoColor=green)
+![Linux](https://img.shields.io/badge/linux%20-%23F7DF1E.svg?style=for-the-badge&logo=linux&logoColor=green)
+![Puppeteer](https://img.shields.io/badge/Puppeteer%20-%23F7DF1E.svg?style=for-the-badge&logo=Puppeteer&logoColor=green)
+![Playwright](https://img.shields.io/badge/Playwright%20-%23F7DF1E.svg?style=for-the-badge&logo=Playwright&logoColor=green)
+<br>
 ![Tailwind](https://img.shields.io/badge/Tailwind%20-%23F7DF1E.svg?style=for-the-badge&logo=tailwindcss&logoColor=green)
+![Bootstrap CSS](https://img.shields.io/badge/Bootstrap_CSS%20-%23F7DF1E.svg?style=for-the-badge&logo=bootstrap&logoColor=green)
+![AntDesign](https://img.shields.io/badge/AntDesign%20-%23F7DF1E.svg?style=for-the-badge&logo=antdesign&logoColor=green)
+![MaterialUI](https://img.shields.io/badge/Material_UI%20-%23F7DF1E.svg?style=for-the-badge&logo=mui&logoColor=green)
+![Mantine UI](https://img.shields.io/badge/Maintine_UI%20-%23F7DF1E.svg?style=for-the-badge&logo=mantine&logoColor=green)
+<br>
+Agile Scrum: 
+![Jira](https://img.shields.io/badge/jira%20-%23F7DF1E.svg?style=for-the-badge&logo=jira&logoColor=green)
+![Trello](https://img.shields.io/badge/trello%20-%23F7DF1E.svg?style=for-the-badge&logo=trello&logoColor=green)
