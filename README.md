@@ -7,10 +7,10 @@ My name is Ma Cong Hieu. I am an software developer. I am interested in the foll
 
 ### I'm rely on 👨‍💻
 <a href="#">
-    <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=black" alt="My skill"/>
+    <img src="https://img.shields.io/badge/HTML5%20-%23F7DF1E.svg?style=for-the-badge&logo=html5&logoColor=black" alt="My skill"/>
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=black" alt="My skill"/>
+    <img src="https://img.shields.io/badge/CSS%20-%23F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=black" alt="My skill"/>
 </a>
 <a href="#">
     <img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="My skill"/>
